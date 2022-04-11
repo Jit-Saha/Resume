@@ -1,0 +1,50 @@
+#bdlt{
+    width: 35%;
+    
+}
+#head{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #606e69;
+    color: rgb(255, 255, 255);
+}
+
+#dp{
+    border-radius: 100px;
+    margin: 5%;
+    height: 150px;
+    width: 150px;
+    border: 15px solid rgb(255, 255, 255);
+}
+#headerlt{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 90%;
+    margin: 2%;
+}
+th,td{
+    padding: 1%;
+    margin: 1%;
+}
+body{
+    margin: 2%;
+    font-family: 'Playfair Display', serif !;
+}
+#linkgit,#LinkedIn{
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+#dp:hover{
+  height: 190px !important;
+  width: 190px !important;         
+}
+#contacts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 5%;
+}

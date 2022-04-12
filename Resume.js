@@ -31,11 +31,11 @@ function showHobbies(){
   }
 }
 function marks1(){
-  document.getElementById('marks1').innerHTML = '83%';
+  document.getElementById('marks1').innerHTML = 'XX%';
 }
 function marks2(){
-  document.getElementById('marks2').innerHTML = '73%';
+  document.getElementById('marks2').innerHTML = 'XX%';
 }
 function marks3(){
-  document.getElementById('marks3').innerHTML = '88%';
+  document.getElementById('marks3').innerHTML = 'XX%';
 }
